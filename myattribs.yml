@@ -1,0 +1,10 @@
+# attributes for validation
+
+allowed_groups:
+  - group1
+  - group2
+
+allowed_users:
+  - user1
+  - user2
+  - user3
